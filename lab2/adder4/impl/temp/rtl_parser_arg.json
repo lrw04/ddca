@@ -1,0 +1,24 @@
+{
+ "Files" : [
+  {
+   "Path" : "/home/lrw04/ddca/lab2/adder4/src/full_adder.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "/home/lrw04/ddca/lab2/adder4/src/adder4.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "/home/lrw04/ddca/lab2/adder4/src/top.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "/home/lrw04/ddca/lab2/adder4/impl/temp/rtl_parser.result",
+ "Top" : "",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}
