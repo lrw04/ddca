@@ -1,0 +1,23 @@
+//Copyright (C)2014-2023 Gowin Semiconductor Corporation.
+//All rights reserved. 
+//File Title: Physical Constraints file
+//GOWIN Version: 1.9.8.11 Education
+//Part Number: GW2AR-LV18QN88C8/I7
+//Device: GW2AR-18
+//Device Version: C
+//Created Time: Tue 06 06 20:24:21 2023
+
+IO_LOC "y" 15;
+IO_PORT "y" PULL_MODE=UP DRIVE=8 BANK_VCCIO=1.8;
+IO_LOC "s[1]" 76;
+IO_PORT "s[1]" PULL_MODE=UP BANK_VCCIO=1.8;
+IO_LOC "s[0]" 80;
+IO_PORT "s[0]" PULL_MODE=UP BANK_VCCIO=1.8;
+IO_LOC "x[3]" 27;
+IO_PORT "x[3]" PULL_MODE=UP BANK_VCCIO=1.8;
+IO_LOC "x[2]" 28;
+IO_PORT "x[2]" PULL_MODE=UP BANK_VCCIO=1.8;
+IO_LOC "x[1]" 25;
+IO_PORT "x[1]" PULL_MODE=UP BANK_VCCIO=1.8;
+IO_LOC "x[0]" 26;
+IO_PORT "x[0]" PULL_MODE=UP BANK_VCCIO=1.8;

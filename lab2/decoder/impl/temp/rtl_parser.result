@@ -1,0 +1,20 @@
+[
+ {
+  "InstFile" : "/home/lrw04/ddca/lab2/decoder/src/top.v",
+  "InstLine" : 1,
+  "InstName" : "top",
+  "ModuleFile" : "/home/lrw04/ddca/lab2/decoder/src/top.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "top",
+  "SubInsts" : [
+   {
+    "InstFile" : "/home/lrw04/ddca/lab2/decoder/src/top.v",
+    "InstLine" : 3,
+    "InstName" : "dec",
+    "ModuleFile" : "/home/lrw04/ddca/lab2/decoder/src/decoder.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "decoder"
+   }
+  ]
+ }
+]

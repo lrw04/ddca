@@ -1,0 +1,36 @@
+[
+ {
+  "InstFile" : "/home/lrw04/ddca/lab2/mux41/src/mux41.v",
+  "InstLine" : 1,
+  "InstName" : "mux41",
+  "ModuleFile" : "/home/lrw04/ddca/lab2/mux41/src/mux41.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "mux41",
+  "SubInsts" : [
+   {
+    "InstFile" : "/home/lrw04/ddca/lab2/mux41/src/mux41.v",
+    "InstLine" : 3,
+    "InstName" : "a",
+    "ModuleFile" : "/home/lrw04/ddca/lab2/mux41/src/mux21.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "mux21"
+   },
+   {
+    "InstFile" : "/home/lrw04/ddca/lab2/mux41/src/mux41.v",
+    "InstLine" : 4,
+    "InstName" : "b",
+    "ModuleFile" : "/home/lrw04/ddca/lab2/mux41/src/mux21.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "mux21"
+   },
+   {
+    "InstFile" : "/home/lrw04/ddca/lab2/mux41/src/mux41.v",
+    "InstLine" : 5,
+    "InstName" : "c",
+    "ModuleFile" : "/home/lrw04/ddca/lab2/mux41/src/mux21.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "mux21"
+   }
+  ]
+ }
+]

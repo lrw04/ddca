@@ -1,0 +1,40 @@
+//
+//Written by GowinSynthesis
+//Product Version "V1.9.8.11 Education"
+//Tue Jun  6 20:13:29 2023
+
+//Source file index table:
+//file0 "\/home/lrw04/ddca/lab2/21mux/src/21mux.v"
+`pragma protect begin_protected
+`pragma protect version="2.2"
+`pragma protect author="default"
+`pragma protect author_info="default"
+`pragma protect encrypt_agent="GOWIN"
+`pragma protect encrypt_agent_info="GOWIN Encrypt Version 2.2"
+
+`pragma protect encoding=(enctype="base64", line_length=76, bytes=256)
+`pragma protect key_keyowner="GOWIN",key_keyname="GWK2022-10",key_method="rsa"
+`pragma protect key_block
+NQVUvVDwRjUzHWJScIY2xoTe693DxPl3aEIbRbTj37IJ6NJcVTMH33Sm2HXJjJ+gwJDycxU4MkCz
+r9K8/yUek5dxmf4fbPZ7Ewh120mOBSHVthxtZEByeXL8HnMXLzXaw81o2wP/ymKBiXY9vaVJeEXm
+g564x/HwQu9OdhKJMynB8ze6I/bBVIP4iGuJe9r3MiT23BneNb49+9HTBUIGvwmi/KIbwoqgI/dk
+hI4AiWCb4+/4wgAbJiAXw5QVVoi8tg2rng98ix7W5FKHhFjjbh+TO3vjT4ztujfLiJ+SwtDthMIQ
+ceJ/vfK2wwFqdZZuQkuS2c6Gilc1XMBjdvRrAA==
+
+`pragma protect encoding=(enctype="base64", line_length=76, bytes=576)
+`pragma protect data_keyowner="default-ip-vendor"
+`pragma protect data_keyname="default-ip-key"
+`pragma protect data_method="aes128-cbc"
+`pragma protect data_block
+Zt7iYEFOIGxl3CBFX2wt0h0v6gtTI8ICBXLFvlq4X/gk29shErlJm5E4eK8y7b1GDje+f8/sR5xb
+bFWbEd7Q93lme0vuS8BkbAcH72J4tomerWXe3/GSB21tNq6Dr+2vURl9LulotUDCWyIw+QIrhUYh
+9UaLwVvh16YyZFgsSHS7g6cVKY4nfsbxqlO3Il2eOOGQaIhFIH0RvATafRffV+VHRXDNNWCFYuQI
+bO1599ji7HfE4sYd9CRaqmy+E8JOtwaZLKDFZeHgiU31ckidaP5BYNOfTpO9TPneOLlHXfBvl467
+NJ1sQ6BhgqCss23iqLefHYY/vGZvBdQmn7HLB3fQn3a8MJ5oHULjvhD8tj2XJIXCKHLIqSvzb2SN
+y1YI/ckTGhYcVIIcsbxgXwdYmS1fhRwDAxF1zmLBOuzagehK1CF7QvcXTFD9AXWmn7E0d8dAgene
+uWFkPA/0LYMy1gSx8IN8lSLP3ShLU07dw8QmpnJfWoyxOuR6O38qdZpONvhv7FjqdLrFDePXvtpc
+ZckMyitFwFiAlWuB0qe9a+yTzxCfB3Awg7rZrQePNGa/E66+S2r7Wl4a0KLtRg6LBSX+20AwgLeL
+xoaQYVw5oYUKQox3kcNiM/C3l3RJps88U6QlUqTY58AfOKJ3qmOYcZQkuhZdREaixU0UtpicGvem
+2IHCNadwFhzJaNZnSX2nC1uTwVlRVy8eYX5nt3paH4dIQ3jiVUC12z7JB9hVg/ahKE+OkwQcj3d5
+RNg5fzP+
+`pragma protect end_protected

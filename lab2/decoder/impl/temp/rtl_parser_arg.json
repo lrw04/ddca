@@ -1,0 +1,20 @@
+{
+ "Files" : [
+  {
+   "Path" : "/home/lrw04/ddca/lab2/decoder/src/decoder.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "/home/lrw04/ddca/lab2/decoder/src/top.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "/home/lrw04/ddca/lab2/decoder/impl/temp/rtl_parser.result",
+ "Top" : "",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}
