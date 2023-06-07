@@ -1,0 +1,62 @@
+[
+ {
+  "InstFile" : "/home/lrw04/ddca/lab3/adder-7s/src/led.v",
+  "InstLine" : 1,
+  "InstName" : "led",
+  "ModuleFile" : "/home/lrw04/ddca/lab3/adder-7s/src/led.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "led",
+  "SubInsts" : [
+   {
+    "InstFile" : "/home/lrw04/ddca/lab3/adder-7s/src/led.v",
+    "InstLine" : 3,
+    "InstName" : "add",
+    "ModuleFile" : "/home/lrw04/ddca/lab3/adder-7s/src/adder4.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "adder4",
+    "SubInsts" : [
+     {
+      "InstFile" : "/home/lrw04/ddca/lab3/adder-7s/src/adder4.v",
+      "InstLine" : 3,
+      "InstName" : "a1",
+      "ModuleFile" : "/home/lrw04/ddca/lab3/adder-7s/src/adder.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "full_adder"
+     },
+     {
+      "InstFile" : "/home/lrw04/ddca/lab3/adder-7s/src/adder4.v",
+      "InstLine" : 4,
+      "InstName" : "a2",
+      "ModuleFile" : "/home/lrw04/ddca/lab3/adder-7s/src/adder.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "full_adder"
+     },
+     {
+      "InstFile" : "/home/lrw04/ddca/lab3/adder-7s/src/adder4.v",
+      "InstLine" : 5,
+      "InstName" : "a3",
+      "ModuleFile" : "/home/lrw04/ddca/lab3/adder-7s/src/adder.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "full_adder"
+     },
+     {
+      "InstFile" : "/home/lrw04/ddca/lab3/adder-7s/src/adder4.v",
+      "InstLine" : 6,
+      "InstName" : "a4",
+      "ModuleFile" : "/home/lrw04/ddca/lab3/adder-7s/src/adder.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "full_adder"
+     }
+    ]
+   },
+   {
+    "InstFile" : "/home/lrw04/ddca/lab3/adder-7s/src/led.v",
+    "InstLine" : 4,
+    "InstName" : "dec",
+    "ModuleFile" : "/home/lrw04/ddca/lab3/adder-7s/src/decoder.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "decoder"
+   }
+  ]
+ }
+]

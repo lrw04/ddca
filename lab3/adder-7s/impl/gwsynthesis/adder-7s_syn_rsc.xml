@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="led">
+ <SubModule name="add">
+  <SubModule name="a1" Alu="1" Lut="1"/>
+  <SubModule name="a2" Alu="1" Lut="2"/>
+  <SubModule name="a3" Alu="1" Lut="2"/>
+  <SubModule name="a4" Alu="1" Lut="1"/>
+ </SubModule>
+ <SubModule name="dec" Lut="18"/>
+</Module>

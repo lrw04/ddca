@@ -1,0 +1,12 @@
+-d /home/lrw04/ddca/lab3/adder-7s/impl/gwsynthesis/adder-7s.vg
+-p GW2AR-18C-QFN88-8
+-pn GW2AR-LV18QN88C8/I7
+-cst /home/lrw04/ddca/lab3/adder-7s/src/adder-7s.cst
+-cfg /home/lrw04/ddca/lab3/adder-7s/impl/pnr/device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-correct_hold 1
+-route_maxfan 23

@@ -1,0 +1,39 @@
+//Copyright (C)2014-2023 Gowin Semiconductor Corporation.
+//All rights reserved. 
+//File Title: Physical Constraints file
+//GOWIN Version: 1.9.8.11 Education
+//Part Number: GW2AR-LV18QN88C8/I7
+//Device: GW2AR-18
+//Device Version: C
+//Created Time: Tue 06 06 20:51:57 2023
+
+IO_LOC "led[6]" 29;
+IO_PORT "led[6]" PULL_MODE=UP DRIVE=8 BANK_VCCIO=1.8;
+IO_LOC "led[5]" 20;
+IO_PORT "led[5]" PULL_MODE=UP DRIVE=8 BANK_VCCIO=1.8;
+IO_LOC "led[4]" 19;
+IO_PORT "led[4]" PULL_MODE=UP DRIVE=8 BANK_VCCIO=1.8;
+IO_LOC "led[3]" 18;
+IO_PORT "led[3]" PULL_MODE=UP DRIVE=8 BANK_VCCIO=1.8;
+IO_LOC "led[2]" 17;
+IO_PORT "led[2]" PULL_MODE=UP DRIVE=8 BANK_VCCIO=1.8;
+IO_LOC "led[1]" 16;
+IO_PORT "led[1]" PULL_MODE=UP DRIVE=8 BANK_VCCIO=1.8;
+IO_LOC "led[0]" 15;
+IO_PORT "led[0]" PULL_MODE=UP DRIVE=8 BANK_VCCIO=1.8;
+IO_LOC "b[3]" 27;
+IO_PORT "b[3]" PULL_MODE=UP BANK_VCCIO=1.8;
+IO_LOC "b[2]" 28;
+IO_PORT "b[2]" PULL_MODE=UP BANK_VCCIO=1.8;
+IO_LOC "b[1]" 25;
+IO_PORT "b[1]" PULL_MODE=UP BANK_VCCIO=1.8;
+IO_LOC "b[0]" 26;
+IO_PORT "b[0]" PULL_MODE=UP BANK_VCCIO=1.8;
+IO_LOC "a[3]" 76;
+IO_PORT "a[3]" PULL_MODE=UP BANK_VCCIO=1.8;
+IO_LOC "a[2]" 80;
+IO_PORT "a[2]" PULL_MODE=UP BANK_VCCIO=1.8;
+IO_LOC "a[1]" 42;
+IO_PORT "a[1]" PULL_MODE=UP BANK_VCCIO=1.8;
+IO_LOC "a[0]" 41;
+IO_PORT "a[0]" PULL_MODE=UP BANK_VCCIO=1.8;
