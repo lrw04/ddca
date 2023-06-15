@@ -1,0 +1,46 @@
+[
+ {
+  "InstFile" : "/home/lrw04/ddca/lab4/thunderbird/src/top.v",
+  "InstLine" : 1,
+  "InstName" : "top",
+  "ModuleFile" : "/home/lrw04/ddca/lab4/thunderbird/src/top.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "top",
+  "SubInsts" : [
+   {
+    "InstFile" : "/home/lrw04/ddca/lab4/thunderbird/src/top.v",
+    "InstLine" : 6,
+    "InstName" : "cd",
+    "ModuleFile" : "/home/lrw04/ddca/lab4/thunderbird/src/clock_divider.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "clock_divider"
+   },
+   {
+    "InstFile" : "/home/lrw04/ddca/lab4/thunderbird/src/top.v",
+    "InstLine" : 7,
+    "InstName" : "mach",
+    "ModuleFile" : "/home/lrw04/ddca/lab4/thunderbird/src/fsm.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "fsm",
+    "SubInsts" : [
+     {
+      "InstFile" : "/home/lrw04/ddca/lab4/thunderbird/src/fsm.v",
+      "InstLine" : 6,
+      "InstName" : "ns",
+      "ModuleFile" : "/home/lrw04/ddca/lab4/thunderbird/src/next_state.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "next_state"
+     },
+     {
+      "InstFile" : "/home/lrw04/ddca/lab4/thunderbird/src/fsm.v",
+      "InstLine" : 7,
+      "InstName" : "ol",
+      "ModuleFile" : "/home/lrw04/ddca/lab4/thunderbird/src/output_logic.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "output_logic"
+     }
+    ]
+   }
+  ]
+ }
+]

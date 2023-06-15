@@ -1,0 +1,32 @@
+{
+ "Files" : [
+  {
+   "Path" : "/home/lrw04/ddca/lab4/thunderbird/src/next_state.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "/home/lrw04/ddca/lab4/thunderbird/src/clock_divider.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "/home/lrw04/ddca/lab4/thunderbird/src/output_logic.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "/home/lrw04/ddca/lab4/thunderbird/src/fsm.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "/home/lrw04/ddca/lab4/thunderbird/src/top.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "/home/lrw04/ddca/lab4/thunderbird/impl/temp/rtl_parser.result",
+ "Top" : "",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}
